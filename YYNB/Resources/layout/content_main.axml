@@ -15,6 +15,17 @@
         android:longClickable="true"
         android:clickable="true"
         android:background="#fffafafa" />
+
+    <TextView
+        android:text="YYNB"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_centerHorizontal = "true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom = "20dp"
+        android:textSize="20dp" />
     
 
 </RelativeLayout>
